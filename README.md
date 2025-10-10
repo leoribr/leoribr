@@ -1,13 +1,14 @@
 <div align="center">
 
-![Vegeta de bigode](./banner-gitlab.png)
-
 # 📢 Importante!
 
 # Meu código está no **GitLab**
 
 ### O GitHub é apenas um espelho do repositório principal
 
+[![Ver página completa](https://img.shields.io/badge/🌐_Ver_Página_Completa-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://leoribr.gitlab.io)
+
+---
 </div>
 
 ---
