@@ -1,6 +1,6 @@
 <!-- HERO -->
 <div align="center">
-  <img src="./banner-gitlab.png" alt="Meu código vive no GitLab" width="100%" />
+  <img src="./banner-gitlab2.png" alt="Meu código vive no GitLab" width="100%" />
   <br/><br/>
 
   <h1>Meu código está no <span style="color:#fc6d26;">GitLab</span></h1>
