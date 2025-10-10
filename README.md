@@ -1,16 +1,76 @@
-<p align="center">
-  <a href="https://gitlab.com/leoribr">
-    <img src="./banner-gitlab.png" alt="👉 Meu código vive no GitLab" width="100%" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://gitlab.com/leoribr">
-    <img alt="GitLab" src="https://img.shields.io/badge/Principal%20no-GitLab-orange?logo=gitlab">
-  </a>
-  <a href="https://github.com/leoribr">
-    <img alt="Mirror" src="https://img.shields.io/badge/Este%20GitHub-%20Mirror%20Read--Only-blue?logo=github">
-  </a>
-</p>
+![Vegeta de bigode](./banner-gitlab.png)
 
-> Meu trabalho ativo está no **GitLab**. Este GitHub é um **espelho automático**.
+# 📢 Importante!
+
+# Meu código está no **GitLab**
+
+### O GitHub é apenas um espelho do repositório principal
+
+</div>
+
+---
+
+## 🔄 Como funciona?
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🦊 GitLab
+**Repositório Principal**
+
+Onde todo o desenvolvimento acontece
+
+🏷️ **Fonte Principal**
+
+[Visitar GitLab →](https://gitlab.com/leoribr)
+
+</td>
+<td width="33%" align="center">
+
+### 📋 ↔️ 
+**Sincronização**
+
+Mirror automático
+
+</td>
+<td width="33%" align="center">
+
+### 🐙 GitHub
+**Espelho**
+
+Sincronizado automaticamente do GitLab
+
+🏷️ **Mirror**
+
+[Visitar GitHub →](https://github.com/leoribr)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤔 Por que usar GitLab como fonte principal?
+
+✓ **CI/CD integrado e poderoso**
+
+✓ **Melhor controle sobre pipelines e automações**
+
+✓ **Repositórios privados ilimitados**
+
+✓ **GitHub serve como backup e espelho público**
+
+---
+
+<div align="center">
+
+### 💡 Para contribuir ou reportar issues
+
+Por favor, acesse o **repositório GitLab**
+
+[gitlab.com/leoribr](https://gitlab.com/leoribr)
+
+</div>
